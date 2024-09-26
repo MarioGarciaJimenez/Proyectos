@@ -1,20 +1,27 @@
+# 🚗 Proyecto de Alarma Inteligente para Vehículo
 
-Proyecto de Electrónica: Alarma Inteligente para Vehículo 🚗
-Descripción del Proyecto 📋
-Este proyecto consiste en el desarrollo de una alarma inteligente para vehículos utilizando un ESP32, un acelerómetro, un módulo GPS, y relés. La alarma está diseñada específicamente para un Mercedes Benz W202, permitiendo geolocalización en caso de robo, activación de la bocina y corte de inyección del motor. Se puede desactivar automáticamente cuando el usuario se acerca al vehículo o manualmente.
+## 📋 Descripción del Proyecto
 
-Objetivo: Aumentar la seguridad del vehículo a través de un sistema de alarma innovador y de fácil control mediante tecnología moderna.
+Este proyecto es una **alarma inteligente** para un **Mercedes Benz W202**, diseñada para mejorar la seguridad del vehículo mediante la geolocalización, activación de la bocina y corte de inyección de combustible. Utiliza un **ESP32**, un acelerómetro, un módulo GPS y relés, con la capacidad de desactivarse automáticamente cuando el usuario se acerca al vehículo o manualmente a través de un sistema remoto.
 
-Funcionalidades 🛠️
-Geolocalización GPS: En caso de robo, puedes rastrear tu vehículo en tiempo real.
-Alarma por vibración: Utiliza un acelerómetro para detectar movimientos bruscos y activar la alarma.
-Corte de inyección de combustible: En caso de alarma, se corta la inyección del motor para evitar que el vehículo sea arrancado.
-Control de bocina: Activación automática de la bocina en caso de alerta.
-Modo de desactivación automática/manual: Al acercarte al vehículo, la alarma se desactiva automáticamente gracias a la conexión inalámbrica.
-Componentes Utilizados 🔧
-ESP32: Controlador principal para el procesamiento y control del sistema.
-Acelerómetro: Detecta movimientos inesperados del vehículo.
-Módulo GPS: Proporciona la ubicación exacta del vehículo en caso de activación.
-Relés: Permiten la activación/desactivación de la bocina y el corte de inyección. 
-Mercedes Benz W202: Vehículo en el que se instala el sistema.
+---
 
+## 🛠 Funcionalidades
+
+- **Geolocalización GPS**: En caso de robo, permite rastrear el vehículo en tiempo real.
+- **Alarma por vibración**: Detecta movimientos bruscos a través de un acelerómetro.
+- **Corte de inyección**: Bloquea el motor para prevenir que el vehículo sea arrancado.
+- **Control de bocina**: La bocina se activa automáticamente en caso de alerta.
+- **Desactivación automática/manual**: Permite la desactivación automática al acercarse al vehículo o mediante control remoto.
+
+---
+
+## 🔧 Componentes Utilizados
+
+- **ESP32**: Microcontrolador principal.
+- **Acelerómetro**: Detecta el movimiento del vehículo.
+- **Módulo GPS**: Proporciona la localización en tiempo real.
+- **Relés**: Controlan la bocina y el corte de inyección de combustible.
+- **Mercedes Benz W202**: Vehículo donde se instalará el sistema.
+
+---
