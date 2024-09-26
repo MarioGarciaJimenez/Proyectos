@@ -29,14 +29,3 @@ Se está utilizando un **BMS Daly** para gestionar y proteger la batería.
 - **Equilibrio de celdas**: Asegura que todas las celdas se carguen y descarguen de manera uniforme.
 - **Monitoreo del estado**: Algunos modelos ofrecen monitoreo en tiempo real, permitiendo ver el voltaje y la temperatura de cada celda.
 
-### Recomendaciones
-
-- **Conexión correcta**: Sigue las especificaciones del fabricante para conectar el BMS adecuadamente.
-- **Pruebas iniciales**: Realiza pruebas de carga y descarga en un entorno controlado para asegurarte de que todo funcione como se espera.
-
----
-
-## 💡 Conclusiones
-
-La combinación de un arreglo de batería de **3P 12S** y un **BMS Daly** proporciona una solución eficiente y segura para el suministro de energía en un robot de rescate.
-
