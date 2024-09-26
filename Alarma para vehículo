@@ -15,5 +15,5 @@ Componentes Utilizados 🔧
 ESP32: Controlador principal para el procesamiento y control del sistema.
 Acelerómetro: Detecta movimientos inesperados del vehículo.
 Módulo GPS: Proporciona la ubicación exacta del vehículo en caso de activación.
-Relés: Permiten la activación/desactivación de la bocina y el corte de inyección.
+Relés: Permiten la activación/desactivación de la bocina y el corte de inyección. 
 Mercedes Benz W202: Vehículo en el que se instala el sistema.
