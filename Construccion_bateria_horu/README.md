@@ -26,7 +26,11 @@ Se está utilizando un **BMS Daly** para gestionar y proteger la batería.
 ### Funciones del BMS:
 
 - **Protección de celdas**: Evita sobrecargas y descargas excesivas.
-- **Equilibrio de celdas**: Asegura que todas las celdas se carguen y descarguen de manera uniforme.
+- **Equilibrio de celdas**: Asegura que todas las celdas se 
+
+https://github.com/user-attachments/assets/fde40c62-d74d-4b95-bb8d-29f1daeec7bf
+
+carguen y descarguen de manera uniforme.
 - **Monitoreo del estado**: Algunos modelos ofrecen monitoreo en tiempo real, permitiendo ver el voltaje y la temperatura de cada celda.
   
 ## 📸 Imágenes del Proyecto
