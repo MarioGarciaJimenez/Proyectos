@@ -37,6 +37,6 @@ Se está utilizando un **BMS Daly** para gestionar y proteger la batería.
 <img src="https://github.com/user-attachments/assets/fcf9bb65-2093-464f-bda7-56453d30605d" alt="Imagen 4" width="300"/>
 <img src="https://github.com/user-attachments/assets/c771e936-1f38-44f8-9dae-cfa668ff4048" alt="Imagen 5" width="300"/>
 
-
+Proyecto realizado por el equipo de RoboRescue UMA.
 
 
